@@ -14,4 +14,4 @@
     - Faire un Fork du projet
     - Puis, un git clone
     - Lancer composer install.
-    - Faire un symfony server:start ou un php -S 127.0.0.1:8000 -t public  
+    - Faire un symfony server:start ou un php -S localhost:8000 -t public  
