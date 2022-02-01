@@ -1,6 +1,6 @@
 # FONCTIONNEMENT DU PROJET DE RECRUTEMENT :
 
-## CONSIGNES :
+### CONSIGNES :
 
 - L'utilisation de make est interdite !!
 - Réaliser les exercices dans le sens que l'on veut mais, le projet doit pouvoir se lancer.
